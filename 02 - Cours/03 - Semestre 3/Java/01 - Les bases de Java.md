@@ -1,5 +1,23 @@
 # Java - Les bases
 
+- [Java - Les bases](#java---les-bases)
+  - [1. Structure de base d’un programme Java](#1-structure-de-base-dun-programme-java)
+  - [2. Variables et types](#2-variables-et-types)
+  - [3. Opérateurs](#3-opérateurs)
+    - [3.1. Arithmétiques](#31-arithmétiques)
+    - [3.2. Comparaison](#32-comparaison)
+    - [3.3. Logiques](#33-logiques)
+  - [4. Conditions](#4-conditions)
+  - [5. Boucles](#5-boucles)
+  - [6. Méthodes](#6-méthodes)
+  - [7. Tableaux](#7-tableaux)
+    - [7.1. Déclaration et initialisation](#71-déclaration-et-initialisation)
+    - [7.2. Parcourir un tableau](#72-parcourir-un-tableau)
+  - [8. Matrices](#8-matrices)
+    - [8.1. Déclaration et initialisation](#81-déclaration-et-initialisation)
+    - [8.2. Parcourir un tableau](#82-parcourir-un-tableau)
+  - [9. Points essentiels à retenir](#9-points-essentiels-à-retenir)
+
 ## 1. Structure de base d’un programme Java
 
 Tout programme Java s’exécute dans une **classe**.
