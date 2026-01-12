@@ -9,4 +9,4 @@
 
 - ***ChatGPT ou autres sont super efficaces pour faire les tâches rapides sans perdre du temps. L'utiliser pour le programme complet est fort déconséillé pour moi, vu que pour un code long, l'IA ne va plus rien comprendre et sa solution est d'halluciner des réponses tellement fausses. Aussi, parce qu'on ne fait que copier coller sans comprendre ce que l'IA est entrain de faire exactement.***
 
-- ***Documentation, pratiquer et faire des erreurs est le meilleur moyen d'apprendre.*** 
+- ***Documentation, pratiquer et faire des erreurs est le meilleur moyen d'apprendre.***
