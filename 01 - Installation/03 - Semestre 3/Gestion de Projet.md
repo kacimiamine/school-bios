@@ -1,5 +1,10 @@
 # Gestion de Projet - Installation
 
+- [Gestion de Projet - Installation](#gestion-de-projet---installation)
+  - [Note](#note)
+  - [1. Windows](#1-windows)
+    - [1.1. Gestion de Projet](#11-gestion-de-projet)
+
 ## Note
 
 - ***Si vous avez des problèmes d'installtion, vous pourrez me rencontrer à l'école, m'appeler ou m'envoyer un mail sur contact.kacimiamine@gmail.com.***

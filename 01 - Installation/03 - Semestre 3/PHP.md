@@ -1,5 +1,16 @@
 # PHP - Installation
 
+- [PHP - Installation](#php---installation)
+  - [Note](#note)
+  - [1. Windows](#1-windows)
+    - [1.1. WAMP](#11-wamp)
+      - [1.1.1. Téléchargement](#111-téléchargement)
+      - [1.1.2. Installation](#112-installation)
+    - [1.2. VS Code](#12-vs-code)
+      - [1.2.1. Téléchargement](#121-téléchargement)
+      - [1.2.2. Installation](#122-installation)
+      - [1.2.3. Extensions](#123-extensions)
+
 ## Note
 
 - ***Si vous avez des problèmes d'installtion, vous pourrez me rencontrer à l'école, m'appeler ou m'envoyer un mail sur contact.kacimiamine@gmail.com.***

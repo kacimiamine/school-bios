@@ -1,5 +1,15 @@
 # Java - Installation
 
+- [Java - Installation](#java---installation)
+  - [Note](#note)
+  - [1. Windows](#1-windows)
+    - [1.1. JDK](#11-jdk)
+      - [1.1.1. Téléchargement](#111-téléchargement)
+      - [1.1.2. Installation](#112-installation)
+    - [1.2. Eclipse](#12-eclipse)
+      - [1.2.1. Téléchargement](#121-téléchargement)
+      - [1.2.2. Installation](#122-installation)
+
 ## Note
 
 - ***Si vous avez des problèmes d'installtion, vous pourrez me rencontrer à l'école, m'appeler ou m'envoyer un mail sur contact.kacimiamine@gmail.com.***
